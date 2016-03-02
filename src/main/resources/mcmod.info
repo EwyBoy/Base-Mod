@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "modname",
+      "name": "Mod Name",
+      "description": "Base mod uses to make life easier for me",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["EwyBoy"],
+      "credits": "",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]

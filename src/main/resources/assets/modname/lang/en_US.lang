@@ -1,0 +1,10 @@
+#ModName Lang-File
+
+#Blocks
+tile.BlockName.name=Block Name
+
+#Items
+item.ItemName.name=Item Name
+
+#CreativeTab
+itemGroup.CreativeTabName=Name
